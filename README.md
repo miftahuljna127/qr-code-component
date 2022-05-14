@@ -1,4 +1,4 @@
-# Frontend Mentor - Challenge order summary card component
+# Frontend Mentor - Challenge QR Code Component
 
 This is solution [QR Code Component from Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
@@ -24,7 +24,7 @@ Users should be able to :
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/63044215/153996771-c680bf30-f830-447e-bafc-f77892402373.png)
+![image](https://user-images.githubusercontent.com/63044215/168427867-5928fe8d-b5f9-42cf-a8f7-1fe0999beec1.png)
 
 ## Links
 
@@ -40,7 +40,7 @@ Link not yet available
 
 ## What I learned
 
-Make responsive website
+Make mobile first and use flexbox
 
 # Author
 
